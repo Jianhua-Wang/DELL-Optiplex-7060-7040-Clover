@@ -29,3 +29,4 @@
 - UHD630 can only support one display for most case
 - DP to HDMI not work for hackintosh
 - Radeon r7 340/240/250 graphic card (device ID: 6611) cannot be driven in 10.14 or higher version (video memory: 7Mb).
+- Radeon rx 560D from mingying is not driver-free, better use sapphire's AMD card.
