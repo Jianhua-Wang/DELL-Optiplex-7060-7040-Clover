@@ -8,6 +8,7 @@
 - UHD 630
 - 16G RAM (2400MHz and 2133MHZ, and works fine)
 - 1T HDD (windows) + 512 SDD (MacOS)
+- Sapphire rx 560D 4G
 
 ![UTOOLS1589550363288.png](https://img01.sogoucdn.com/app/a/100520146/9b7f208eea9d3a684521820fe65d3dc0)
 
@@ -29,4 +30,5 @@
 - UHD630 can only support one display for most case
 - DP to HDMI not work for hackintosh
 - Radeon r7 340/240/250 graphic card (device ID: 6611) cannot be driven in 10.14 or higher version (video memory: 7Mb).
-- Radeon rx 560D from mingying is not driver-free, better use sapphire's AMD card.
+- Radeon rx 560D from mingying is not driver-free, while sapphire's AMD card works fine!
+- If you are using a AMD driver-free graphic card, replace the config.plist with confing-amd.plist.
