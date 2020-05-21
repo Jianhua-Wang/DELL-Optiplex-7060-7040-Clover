@@ -9,8 +9,10 @@
 - 16G RAM (2400MHz and 2133MHZ, and works fine)
 - 1T HDD (windows) + 512 SDD (MacOS)
 - Sapphire rx 560D 4G
+- Wi-Fi & Bluetooth: BCM94360CD
+- Display: Dual 1080P 24 inch display
 
-![UTOOLS1589550363288.png](https://img01.sogoucdn.com/app/a/100520146/9b7f208eea9d3a684521820fe65d3dc0)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gf04k0jfbzj30gb09vmz2.jpg)
 
 ### Software
 
@@ -23,7 +25,13 @@
 - Ethernet card: :ok:
 - Sound card: Speaker is OK, but line-out has some trouble
 
-![屏幕快照 2020-05-15 21.28.53的副本 2.png](https://img03.sogoucdn.com/app/a/100520146/6812179f521e04549df5b7ce0df82e3e)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gf04n5gmooj30ga0bjaav.jpg)
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gf04lw0dqdj30a70d8jtp.jpg)
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf04r8du67j30890ab43e.jpg)
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf04rttekoj308k08otcz.jpg)
 
 ## Tips:
 
