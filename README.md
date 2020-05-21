@@ -7,7 +7,7 @@
 - i5-8700
 - UHD 630
 - 16G RAM (2400MHz and 2133MHZ, and works fine)
-- 1T HDD (windows) + 512 SDD (MacOS)
+- 1T HDD (windows) + 512Gb WD Blue SDD (MacOS)
 - Sapphire rx 560D 4G
 - Wi-Fi & Bluetooth: BCM94360CD
 - Display: Dual 1080P 24 inch display
